@@ -1,0 +1,5 @@
+com\yash\studentmanagement\controller\StudentController.class
+com\yash\studentmanagement\service\StudentService.class
+com\yash\studentmanagement\entity\Student.class
+com\yash\studentmanagement\repository\StudentRepository.class
+K1\Student\Management\System\StudentManagementSystemApplication.class
